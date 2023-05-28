@@ -1,0 +1,2 @@
+What is an Application User Model ID?
+The AUMID is the identifier for Universal Apps (UWP) installed from the Windows Store. The AUMID is essentially the identifier and entry point for these applications. Once you know the AUMID you can programmability launch apps, create app shortcuts and more
